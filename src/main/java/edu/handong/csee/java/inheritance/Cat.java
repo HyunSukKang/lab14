@@ -24,5 +24,6 @@ public class Cat extends Animal {
         myDog.testInstanceMethod();
         
         System.out.println("HELLO WORLD!");
+	System.out.println("Hi Guys!");
     }
 }
