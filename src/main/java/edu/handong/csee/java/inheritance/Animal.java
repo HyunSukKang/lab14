@@ -9,5 +9,6 @@ public class Animal {
     }
     public void printHelloMethod() {
     	System.out.println("Hello");
+	System.out.println("hi");
     }
 }
