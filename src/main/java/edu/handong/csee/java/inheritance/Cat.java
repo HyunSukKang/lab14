@@ -23,6 +23,6 @@ public class Cat extends Animal {
         Animal myDog = new Dog(); // polymorphism : Animal 타입으로 선언 된 myAnimal, myDog이 Cat이 될 수도, Dog이 될 수도 있다. 이것을 polymorphism이라고 한다. 
         myDog.testInstanceMethod();
         
-        System.out.println("HELLO");
+        System.out.println("HELLO WORLD!");
     }
 }
