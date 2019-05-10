@@ -2,6 +2,7 @@ package edu.handong.csee.java.inheritance;
 // commit comment hello
 // 2019. 05. 09
 // hello world!
+// hi for commit 2019. 5. 10
 public class Cat extends Animal {
 	
     // hiding : superclass에서 정의된 static method를 재정의해서 사용하는 것을 hiding 이라고 한다.  
